@@ -1,2 +1,2 @@
 # Genomic-analysis-codes
-Some codes to run easily for QC and analyses
+codes for QC and analyses of various genomic data to run easily
